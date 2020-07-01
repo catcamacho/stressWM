@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+./plots
+./scored_data
+
 # Distribution / packaging
 .Python
 build/
